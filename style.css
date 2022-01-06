@@ -3,5 +3,31 @@ body{
 font-family: 'Roboto Slab', serif;
 }
 h1{
-    color: coral;
+    font-size: 40px;
+}
+.orange-color{
+    color: orange;
+}
+section{
+    display: flex;
+}
+.half-widht{
+    width: 50%;
+    padding: 5%;
+}
+.half-widht img{
+    width: 100%;
+}
+.link-button{
+
+    text-decoration: none;
+    background-color: orangered;
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+
+}
+.mission-area{
+  text-align: center;
 }
